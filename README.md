@@ -1,8 +1,8 @@
 # ambanicoffee
 # an ecommerce based mern stack project
 # overview
-It is a basiclly an ecommerce based project , where a user (only authenticate user ) can order or buy something an can make aan online payment . and also there is 
-an admin pannel also where admin can handle order and product addition and deletion or updation
+It is a basiclly an ecommerce based project , where a user (only authenticate user ) can order or buy something an can make aan online payment .
+and also there is an admin pannel also where admin can handle order and product addition and deletion or updation
 # Features
 In my ambanicoffee project I have created maily two main flow or implementation
 ## 1.admin 
@@ -17,11 +17,11 @@ In my ambanicoffee project I have created maily two main flow or implementation
 I have deployed this project on cyclic.
 Link : https://cerulean-hedgehog-shoe.cyclic.app/
 
-# Start Development
-### $ npm run dev
+### Start Development
+            $ npm run dev
 
-# simple build for production
-### $ npm run build
+### simple build for production
+            $ npm run build
 
 # Tools and Technology
 
