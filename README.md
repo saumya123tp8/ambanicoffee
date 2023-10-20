@@ -25,7 +25,7 @@ Link : https://cerulean-hedgehog-shoe.cyclic.app/
 
 ### Tools and Technology
 
-1.MongoDB
+- MongoDB
 2.Express.js
 3.React.js
 4.Node.js
