@@ -14,4 +14,4 @@ I have deployed this project on cyclic.
 Link : https://cerulean-hedgehog-shoe.cyclic.app/
 
 # Start Development
-npm run dev
+ $ npm run dev
