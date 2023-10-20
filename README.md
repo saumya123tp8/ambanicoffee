@@ -26,14 +26,14 @@ Link : https://cerulean-hedgehog-shoe.cyclic.app/
 ### Tools and Technology
 
 - MongoDB
-2.Express.js
-3.React.js
-4.Node.js
-5.Braintree and Paypal (for payment integration )
-6.Bootstrap
-7.HTML
-8.CSS
-9.Postman
+- Express.js
+- React.js
+- Node.js
+- Braintree and Paypal (for payment integration )
+- Bootstrap
+- HTML
+- CSS
+- Postman
 
 # code formatter 
  VS code
